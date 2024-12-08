@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidSnackbarModalNavigationDrawer</string>
+    <string name="title_activity_inner">InnerActivity</string>
+</resources>
